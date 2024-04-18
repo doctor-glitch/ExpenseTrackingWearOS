@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="padding_outer_main">2dp</dimen>
+    <dimen name="steps_textSize">8sp</dimen>
+    <dimen name="step_count_textsize">7sp</dimen>
+    <dimen name="counter_textSize">12dp</dimen>
+    <dimen name="placeholder_textSize">12sp</dimen>
+    <dimen name="button_textSIze">7sp</dimen>
+    <dimen name="row_textSize">8sp</dimen>
+    <dimen name="row_marginBottom">5dp</dimen>
+    <dimen name="row_marginStart">5dp</dimen>
+    <dimen name="row_marginTop">2dp</dimen>
+    <dimen name="row_paddingBottom">2dp</dimen>
+    <dimen name="list_padding">2dp</dimen>
+    <dimen name="layout_padding">2dp</dimen>
+    <dimen name="row_content_marginBottom">3dp</dimen>
+    <dimen name="row_content_marginTop">3dp</dimen>
+</resources>
